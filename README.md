@@ -45,5 +45,5 @@ java --add-opens=java.base/jdk.internal.vm=ALL-UNNAMED Continuations
 ---
 
 
-*If you like the blog post and/or the code, please follow me on [Twitter](https://twitter.com/lutzhuehnken) or [Mastodon](href="https://social.tchncs.de/@lutzhuehnken) to be notified about updates. Or, if you're really enthusiastic about it, you can even become a [supporter on Flattr](https://flattr.com/@lutzh).*
+*If you like the blog post and/or the code, please follow me on [Twitter](https://twitter.com/lutzhuehnken) or [Mastodon](https://social.tchncs.de/@lutzhuehnken) to be notified about updates. Or, if you're really enthusiastic about it, you can even become a [supporter on Flattr](https://flattr.com/@lutzh).*
 
